@@ -1,0 +1,1 @@
+# plugins-dominant-color-images
